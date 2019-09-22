@@ -7,7 +7,7 @@ import java.util.ArrayList;
     input1=13,input2=2 ,input3=8 --- output=8;
     if value equal to 13,escape the value '13', as well as the next value to 13.
     sum the remaining values*/
-
+//
 public class SET3Q10 {
 
 	public static void input(int ip1,int ip2,int ip3)
